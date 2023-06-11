@@ -9,9 +9,8 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://"
-  },
-  "keywords": [],
+    "url": "git+https://github.com/luminitza24/goit-js-hw-10.git"},
+    "keywords": [],
   "author": "Alexander Repeta <alexander.repeta@gmail.com>",
   "license": "ISC",
   "bugs": {
